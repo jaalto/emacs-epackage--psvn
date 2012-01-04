@@ -12,7 +12,7 @@ Vcs-Type: svn
 Vcs-Url: http://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/emacs
 Vcs-Browser: http://svn.apache.org/viewvc/subversion/trunk/contrib/client-side/emacs
 Homepage:
-Wiki: http://www.emacswiki.org/emacs/
+Wiki: http://www.emacswiki.org/emacs/SvnStatusMode
 Commentary: psvn.el
 X-Development:
   psvn.el is in the official Subversion repository. See
