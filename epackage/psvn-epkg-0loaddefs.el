@@ -1,6 +1,6 @@
 
 ;;;### (autoloads (svn-status svn-checkout) "../psvn" "psvn.el"
-;;;;;;  (20228 18048))
+;;;;;;  (20228 22155))
 ;;; Generated autoloads from psvn.el
 
 (autoload 'svn-checkout "psvn" "\
