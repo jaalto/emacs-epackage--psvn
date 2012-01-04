@@ -18,6 +18,8 @@ X-Development:
   psvn.el is in the official Subversion repository. See
   <http://subversion.apache.org/faq.html>. The one in
   Author's site <http://www.xsteve.at/prg/emacs/psvn.el> ís behind.
+  .
+  Official repo also carries dsvn.el (ELPA), vc-svn.el
 Description: client interface to Subversion (SVN) version control
  An interface for the revision control tool subversion; see
  <http://subversion.apache.org>. Provide a similar interface for
