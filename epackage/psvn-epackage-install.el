@@ -181,4 +181,4 @@
 (autoload 'svn-status-last-commands             "psvn" "" t)
 (autoload 'svn-prepare-bug-report               "psvn" "" t)
 (autoload 'svn-prepare-for-reload               "psvn" "" t)
-(provide 'psvn-epkg-install)
+(provide 'psvn-epackage-install)
