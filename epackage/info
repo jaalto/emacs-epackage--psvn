@@ -8,18 +8,18 @@ Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
 Upstream: Stefan Reichoer <stefan@xsteve.at>
 Upstream-Bugs:
-Vcs-Type: svn
-Vcs-Url: http://svn.apache.org/repos/asf/subversion/trunk/contrib/client-side/emacs
-Vcs-Browser: http://svn.apache.org/viewvc/subversion/trunk/contrib/client-side/emacs
+Vcs-Type: http
+Vcs-Url: http://www.xsteve.at/prg/emacs/psvn.el
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/SvnStatusMode
 Commentary: psvn.el
 X-Development:
-  psvn.el is in the official Subversion repository. See
-  <http://subversion.apache.org/faq.html>. The one in
-  Author's site <http://www.xsteve.at/prg/emacs/psvn.el> ís behind.
+  Sources used to be hoted at official Subversion development
+  repository at
+  <http://svn.apache.org/viewvc/subversion/trunk/contrib/client-side/emacs>.
+  Now, it's at Author's site <http://www.xsteve.at/prg/emacs/psvn.el>.
   .
-  Official repo also carries dsvn.el (ELPA), vc-svn.el
+  Author has also created dsvn.el (ELPA), vc-svn.el
 Description: client interface to Subversion (SVN) version control
  An interface for the revision control tool subversion; see
  <http://subversion.apache.org>. Provide a similar interface for
